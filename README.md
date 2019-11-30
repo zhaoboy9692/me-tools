@@ -5,3 +5,5 @@
 3.table2json 将html中的table转成json
 
 4.淘宝抓包hook，使用xposed模块hook淘宝的SPDY协议，使其能够被抓包
+
+5.imei算法，批量生成imei
