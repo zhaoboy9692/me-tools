@@ -13,6 +13,7 @@
 7.flyme助手4.05vip破解版 仅用于学习交流，请支持正版
 
 8、快手、抖音、拼多多ios端抓包插件，需要cydia，（仅用于学习交流） 使用教程http://zhaoxincheng.com/
+9.mix滤镜大师破解插件
 
 
 
